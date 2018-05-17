@@ -1,0 +1,2 @@
+Prefix plugins/CSVPad/example/
+Plugin CSVPad inputfile abund.chao.csv outputfile abund.chao.padded.csv
